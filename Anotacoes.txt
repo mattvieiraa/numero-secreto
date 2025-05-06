@@ -1,0 +1,3 @@
+Sempre que criar uma funação (function) abre e fechar chave {}
+push coloca dados dentro de uma lista.
+.length; é o tamanho da lista
